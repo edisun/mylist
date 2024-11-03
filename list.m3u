@@ -9,3 +9,9 @@ http://113.64.145.34:8081/hls/37/index.m3u8
 http://113.64.145.34:8081/hls/36/index.m3u8
 #EXTINF:-1 tvg-id="凤凰卫视" tvg-name="凤凰资讯" tvg-logo="https://raw.edisun.cc/drangjchen/IPTV/main/Logo/凤凰资讯.png" group-title="凤凰卫视",凤凰资讯
 http://e2.woc.iiiya.cn:8888/rtp/239.61.2.183:9086
+#EXTINF:-1 tvg-id="中天" tvg-name="中天" tvg-logo="https://raw.edisun.cc/drangjchen/IPTV/main/Logo/凤凰资讯.png" group-title="中天",中天
+中天新聞,http://ali.hlspull.yximgs.com/live/_pa_chong_bo___cti.flv
+#EXTINF:-1 tvg-id="中天2" tvg-name="中天2" tvg-logo="https://raw.edisun.cc/drangjchen/IPTV/main/Logo/凤凰资讯.png" group-title="中天2",中天2
+中天新聞2台,http://ali.hlspull.yximgs.com/live/_pa_chong_bo___cti2.flv
+#EXTINF:-1 tvg-id="凤凰卫视" tvg-name="凤凰资讯" tvg-logo="https://raw.edisun.cc/drangjchen/IPTV/main/Logo/凤凰资讯.png" group-title="凤凰卫视",凤凰资讯
+凤凰资讯,http://ali.hlspull.yximgs.com/live/_pa_chong_bo___fenghuang.flv
